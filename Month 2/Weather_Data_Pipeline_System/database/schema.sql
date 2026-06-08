@@ -1,0 +1,1 @@
+CREATE TABLE cities(city_id INTEGER PRIMARY KEY, city_name TEXT);
