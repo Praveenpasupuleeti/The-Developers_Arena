@@ -1,0 +1,11 @@
+# requirements.txt
+# Personal Finance Manager - Python Dependencies
+# All core libraries used are part of Python's standard library.
+# No third-party packages are required to run the basic application.
+
+# Optional: for future chart/visualization features
+# matplotlib>=3.7.0
+# pandas>=2.0.0
+
+# Standard library modules used (no installation needed):
+# csv, os, shutil, datetime, collections, sys
